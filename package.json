@@ -1,0 +1,15 @@
+{
+  "name": "knowledge-app",
+  "version": "1.0.0",
+  "description": "Trouve une information sur un thème ou un mot précis",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Lecoin",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
